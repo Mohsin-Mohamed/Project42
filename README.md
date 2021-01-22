@@ -1,2 +1,1 @@
-# Project42
-Project 42
+# PROC41-Template
